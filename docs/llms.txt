@@ -1,6 +1,6 @@
 # discOrDZApreT
 
-Если Discord висит на Connecting, discOrDZApreT поднимает голосовые и видео без стороннего туннеля.
+Новая версия с поддержкой работы Discord. Быстрее, стабильнее, надежнее
 
 Если Discord висит на Connecting, discOrDZApreT поднимает голосовые и видео без стороннего туннеля. обход блокировки Discord, Discord не подключается, Discord connecting исправить, голосовой чат Discord не работает. Windows 10 и 11, без VPN.
 
